@@ -1,0 +1,25 @@
+Pressure inner layer,Pressure outer layer,Pressure ratio ,Modulus in y direction inner layer,Modulus in y direction outer layer,Ratio of moduli ,Direction of max tensile stress in outer layer
+2,0.5,4,1,20,0.05,Long
+1.5,0.5,3,1,20,0.05,Long
+2,1,2,1,20,0.05,Circ
+1,0.5,2,1,20,0.05,Circ
+2,0.5,4,1,1,1,Circ
+2,0.5,4,1,2,0.5,Circ
+3,0.5,6,1,2,0.5,Long
+2,0.5,4,1,3,0.333,Long
+2,0.5,4,20,20,1,Circ
+0.5,0.5,1,20,20,1,Circ
+3,0.5,6,1,1,1,Circ
+3,0.5,6,1,1.5,0.667,Long
+3,0.5,6,1,1.25,0.8,Long
+3,0.5,6,1,1.1,0.909,Circ
+2,0.5,4,1,1.25,0.8,Circ
+1.5,0.5,3,1,2,0.5,Circ
+1.5,0.5,3,1,3,0.333,Circ
+1,0.5,2,1,3,0.333,Circ
+2.5,0.5,5,1,2,0.5,Long
+2.5,0.5,5,1,1.5,0.667,Circ
+3,0.5,6,1,20,0.05,Long
+2.5,0.5,5,1,1.25,0.8,Circ
+1.5,0.5,3,1,5,0.2,Circ
+2,0.5,4,1,5,0.2,Long 
